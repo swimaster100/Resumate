@@ -58,7 +58,7 @@
 			</form>
 			<form id="education-form" class="formblock hidden">
 				<div class="ed_fields">
-					<p><label>Name</label><input type="text" name="schoolname" placeholder="Enter name of school"></p>
+					<p><label>Name of School</label><input type="text" name="schoolname" placeholder="Enter name of school"></p>
 					<p><label>City</label><input type="text" name="city" placeholder="Enter the city of school"></p>
 					<p>
 						<label>Country</label>
