@@ -105,7 +105,7 @@
 				<div class="w_fields">
 					<p><label>Website URL</label><input type="text" name="website" placeholder="If relevant, enter your website URL"></p>
 					<p><label>Interests</label><input type="text" name="interests" placeholder="Enter your interests and hobbies"></p>
-					<p><label>Groups and Organizations</label><input type="text" name="groups" placeholder="Enter the organizations you are involved in"></p>
+					<p><label>Groups and Organizations</label><input type="textarea" name="groups" placeholder="Enter the organizations you are involved in"></p>
 					<p><label>Languages</label><input type="text" name="languages" placeholder="Enter the languages you speak"></p>
 				</div>	
 			</form>
