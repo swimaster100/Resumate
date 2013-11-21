@@ -90,7 +90,7 @@
 					<p><label>Description</label><input type="textarea" name="description" placeholder="Enter the job description"></p>
 				<input type="radio" name="workhere" value="workhere" />I currently work here <br>
 				<input type="button" id="deleteWork" value="Delete Work" />
-				<input type="button" id="addWork" value="Add Work" />
+				<input type="button" id="addWork" value="Add Work"/>
 				</div>
 			</form>
 			<form id="skill-form" class="formblock hidden">
