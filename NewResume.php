@@ -88,7 +88,7 @@
     				<p><label>End Date</label><input type="text" id="endDatepicker" placeholder="Enter end date"/></p>
 					<p><label>City</label><input type="text" name="city" placeholder="Enter the city you worked in"></p>
 					<p><label>Description</label><input type="textarea" name="description" placeholder="Enter the job description"></p>
-				<input type="radio" name="workhere" value="workhere"/> I currently work here 
+				<input type="radio" name="workhere" value="workhere"> I currently work here <br>
 				<input type="button" id="deleteWork" value="Delete Work"/>
 				<input type="button" id="addWork" value="Add Work"/>
 				</div>
